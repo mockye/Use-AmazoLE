@@ -1,0 +1,273 @@
+You are an elite team combined into one:
+
+• World-class Frontend Developer (HTML, CSS, minimal JS)
+• Senior UX/UI Designer for premium feminine skincare brands
+• Direct Response Copywriter specialized in COD (Pagamento na Entrega)
+• CRO Specialist focused on aggressive conversion with trust
+• Brand Strategist for ecommerce brands scaling to millions/month
+
+Your task is to BUILD A COMPLETE, REAL, HIGH-CONVERTING SALES PAGE.
+This page WILL be used commercially.
+Everything must be production-ready.
+Optimize for performance and LOW TOKEN / LOW COMPUTE usage.
+
+====================================
+GLOBAL RULES (MANDATORY)
+====================================
+• Prompt language: English
+• ALL site copy: Brazilian Portuguese (PT-BR)
+• Brand name: AmazoLE
+• Audience: Mulheres de 23 a 45 anos
+• Mobile-first (priority)
+• Simple structure (HTML + CSS)
+• No heavy frameworks
+• Clean, fast, professional
+• Aggressive persuasion with honesty
+• Focus on pain → solution → offer
+
+====================================
+CORE DIFFERENTIAL — PAYMENT FREEDOM
+====================================
+This MUST be present but NOT excessive.
+
+Primary:
+👉 “PAGUE SOMENTE NA ENTREGA”
+👉 “RECEBA PRIMEIRO. PAGUE DEPOIS.”
+
+Secondary (smaller):
+👉 “Se preferir, também pode pagar antecipadamente pelo site.”
+
+Payment methods:
+• Pix
+• Cartão de crédito
+• (Sem dinheiro / cash)
+
+Delivery:
+• Postagem rápida (até 1 dia útil)
+• Envio para todo o Brasil
+
+====================================
+VISUAL IDENTITY & COLORS
+====================================
+Match the REAL product aesthetics.
+
+• Background: off-white / very light beige
+• Primary color: Verde água / turquesa suave (inspired by product labels)
+• Secondary: Rosé suave / nude feminino
+• Accent: Verde escuro elegante (for CTAs)
+• Typography: clean, modern, feminine
+• No harsh colors
+• Premium + confiança
+
+====================================
+LOGO (IMPORTANT)
+====================================
+Use a professional wordmark:
+“AmazoLE”
+• Clean typography
+• Minimal icon (optional leaf or drop)
+• No childish elements
+
+====================================
+HEADER (STICKY)
+====================================
+• Logo AmazoLE
+• Trust bar:
+  “🚚 Receba primeiro • Pague na entrega ou antecipado • Pix ou Cartão”
+• CTA button:
+  “VER OFERTAS”
+
+====================================
+HERO SECTION (STRONG)
+====================================
+Use as MAIN IMAGE:
+👉 Model holding the 3 products together (image will be provided)
+
+Headline (pain-driven):
+“Manchas que incomodam todos os dias não precisam mais fazer parte da sua rotina”
+
+Subheadline:
+“Tratamento clareador corporal e íntimo que devolve sua confiança — com pagamento só na entrega.”
+
+Bullets (short & strong):
+✔ Melasma, axilas e virilha
+✔ Resultados visíveis
+✔ Compra sem risco
+✔ Você escolhe como pagar
+
+Primary CTA:
+“QUERO VER AS OFERTAS”
+
+====================================
+PAIN AMPLIFICATION SECTION
+====================================
+Focus emotionally, respectfully, aggressively.
+
+Talk about:
+• Vergonha de levantar os braços
+• Medo de biquíni
+• Intimidade afetada
+• Tentativas frustradas no passado
+• Falta de confiança no espelho
+
+Tone:
+Empático, direto, real.
+Sem exageros médicos.
+Sem promessas impossíveis.
+
+====================================
+METHOD SECTION — AMAZOLE
+====================================
+Explain briefly:
+
+• Sabonete Clareador (limpeza + preparo)
+• Esfoliante Clareador (renovação)
+• Sérum Íntimo Clareador (tratamento intensivo)
+
+IMPORTANT:
+Mention ONLY ONCE:
+“Você pode ter resultados usando apenas 1 produto.
+Usando mais de um, os resultados são potencializados e mais rápidos.”
+
+Do NOT repeat this multiple times.
+
+====================================
+OFFERS SECTION (VERY IMPORTANT)
+====================================
+Structure EXACTLY like the prints.
+
+For EACH PRODUCT:
+• 3 cards
+• Order: 1 unidade / 3 unidades / 2 unidades
+• SECOND CARD = highlighted as ⭐ MELHOR OPÇÃO
+• Use product images I will provide for:
+  - 1 unidade
+  - 2 unidades
+  - 3 unidades
+
+------------------------------------
+🧼 SABONETE EM PASTA CLAREADOR
+------------------------------------
+
+CARD 1 – 1 UNIDADE
+Preço antes: R$ 119,90
+Preço atual: R$ 84,40
+Link:
+https://app.coinzz.com.br/checkout/sabone-tira-manchas-1-unidade-600
+
+CARD 2 – ⭐ MELHOR OPÇÃO – 3 UNIDADES
+Preço antes: R$ 359,70
+Preço atual: R$ 184,40
+Badge: “Mais escolhido”
+Link:
+https://app.coinzz.com.br/checkout/sabonete-3-unidades-602
+
+CARD 3 – 2 UNIDADES
+Preço antes: R$ 239,80
+Preço atual: R$ 134,40
+Link:
+https://app.coinzz.com.br/checkout/sabonete-2-unidades-601
+
+------------------------------------
+🧴 ESFOLIANTE CLAREADOR
+------------------------------------
+
+CARD 1 – 1 UNIDADE
+Preço antes: R$ 169,70
+Preço atual: R$ 94,40
+Link:
+https://app.coinzz.com.br/checkout/esfoliante-corporal-amazole-593
+
+CARD 2 – ⭐ MELHOR OPÇÃO – 3 UNIDADES
+Preço antes: R$ 509,10
+Preço atual: R$ 197,40
+Badge: “Melhor custo-benefício”
+Link:
+https://app.coinzz.com.br/checkout/amazole-pele-de-porcelana-597
+
+CARD 3 – 2 UNIDADES
+Preço antes: R$ 339,40
+Preço atual: R$ 154,30
+Link:
+https://app.coinzz.com.br/checkout/amazole-garanta-60-dias-de-pele-nova-596
+
+------------------------------------
+💧 SÉRUM ÍNTIMO CLAREADOR
+------------------------------------
+
+CARD 1 – 1 UNIDADE
+Preço antes: R$ 149,90
+Preço atual: R$ 94,40
+Link:
+https://app.coinzz.com.br/checkout/amazole-serum-intimo-clareador-544
+
+CARD 2 – ⭐ MELHOR OPÇÃO – 3 UNIDADES
+Preço antes: R$ 449,70
+Preço atual: R$ 194,40
+Badge: “Mais vendido”
+Link:
+https://app.coinzz.com.br/checkout/serum-3-unidades-606
+
+CARD 3 – 2 UNIDADES
+Preço antes: R$ 299,80
+Preço atual: R$ 154,40
+Link:
+https://app.coinzz.com.br/checkout/serum-2-unidades-605
+
+====================================
+BEFORE & AFTER SECTION
+====================================
+• Use the best before/after images I will provide
+• Organize by area (axila, virilha, melasma)
+• Clean layout
+• Caption:
+“Resultados reais. Podem variar de pessoa para pessoa.”
+
+====================================
+PAYMENT TRUST SECTION
+====================================
+Title:
+“Você no controle do pagamento”
+
+Explain clearly:
+• Receba primeiro
+• Pague só quando chegar
+• Ou pague antes, se preferir
+• Zero pressão
+• Total transparência
+
+====================================
+FAQ (SHORT & STRATEGIC)
+====================================
+• Posso pagar só quando receber?
+• Posso pagar antes?
+• É seguro?
+• Em quanto tempo chega?
+• Funciona para mim?
+
+====================================
+FINAL CTA
+====================================
+Big buttons:
+“SIM, QUERO RECEBER E PAGAR DO MEU JEITO”
+“VER OFERTAS COM SEGURANÇA”
+
+====================================
+TECHNICAL REQUIREMENTS
+====================================
+• Keep code simple
+• No unnecessary animations
+• Optimize images
+• Anchor links between sections
+• Ready to import/export freely
+• No external paid dependencies
+
+====================================
+FINAL GOAL
+====================================
+• Extreme trust
+• Strong emotional persuasion
+• Clear offers
+• Professional brand feel
+• Built to sell DAILY at scale
+• Ready to reach 3-digit daily sales

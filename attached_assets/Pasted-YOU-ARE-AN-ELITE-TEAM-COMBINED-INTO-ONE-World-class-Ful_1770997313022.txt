@@ -1,0 +1,296 @@
+YOU ARE AN ELITE TEAM COMBINED INTO ONE:
+
+• World-class Full Stack Developer (production-grade, bug-free, fast)
+• Senior UX/UI Designer specialized in feminine, intimate & skin care brands
+• Direct Response Copywriter specialized in COD (Pagamento na Entrega)
+• CRO Specialist obsessed with aggressive conversion & trust
+• Brand Strategist for brands that scale to millions per month
+
+YOUR TASK:
+BUILD A COMPLETE, REAL, PROFESSIONAL AND EXTREMELY HIGH-CONVERTING SALES PAGE.
+
+THIS PAGE WILL BE USED COMMERCIALLY.
+THIS IS NOT A TEMPLATE.
+THIS IS NOT A DEMO.
+THIS PAGE MUST SELL EVERY SINGLE DAY.
+
+====================================
+GLOBAL RULES (MANDATORY)
+====================================
+
+• Prompt language: English
+• ALL website copy: Brazilian Portuguese (PT-BR)
+• Brand name: AMAZOLE
+• Target audience: Mulheres de 23 a 45 anos
+• Mobile-first (PRIORITY ABSOLUTE)
+• Clean, fast, professional, premium
+• Conversion-first mindset
+• PAYMENT FREEDOM IS THE CORE OFFER
+
+====================================
+CORE PROMISE (VERY IMPORTANT)
+====================================
+
+MAKE IT VERY CLEAR, MULTIPLE TIMES:
+
+👉 O cliente NÃO precisa comprar os 3 produtos para ter resultado.
+👉 Com APENAS 1 produto, já é possível ver resultado expressivo.
+👉 O uso combinado dos 3 produtos potencializa e acelera os resultados.
+👉 NÃO existe obrigação de kit.
+
+This removes pressure and increases trust.
+
+====================================
+MAIN DIFFERENTIAL — PAYMENT FREEDOM (EXTREMELY AGGRESSIVE)
+====================================
+
+REPEAT THROUGHOUT THE PAGE:
+
+PRIMARY MESSAGE (STRONG):
+👉 “PAGUE SOMENTE NA ENTREGA”
+👉 “VOCÊ SÓ PAGA QUANDO O PRODUTO CHEGAR NA SUA CASA”
+
+SECONDARY (TRANSPARENCY & TRUST):
+👉 “SE PREFERIR, VOCÊ TAMBÉM PODE PAGAR ANTECIPADAMENTE PELO SITE”
+
+Accepted payment methods:
+• Pix
+• Cartão de crédito
+• (NO dinheiro)
+
+Delivery:
+• Envio para todo o Brasil
+• Postagem rápida (até 1 dia útil)
+
+USER MUST FEEL:
+“Não tem risco nenhum.”
+“Eu controlo o pagamento.”
+“Essa marca é séria.”
+“Posso comprar tranquila.”
+
+====================================
+DESIGN & COLOR SYSTEM (ALIGNED TO PRODUCT)
+====================================
+
+Aesthetic:
+• Feminina
+• Sensual elegante (não vulgar)
+• Clareamento íntimo e pele saudável
+• Premium, limpa, confiável
+
+COLOR PALETTE (MANDATORY):
+• Background: Off-white quente
+• Primary: Nude rosado / tom de pele feminina
+• Secondary: Champagne / rosé premium
+• Accent: Verde escuro sofisticado (confiança)
+• CTAs: Verde escuro ou nude profundo com texto branco
+
+RULES:
+• NEVER use cinza morto em botões
+• NEVER allow text to blend with background
+• High contrast always
+• Buttons MUST look clickable and powerful
+
+====================================
+MEDIA USAGE (CRITICAL)
+====================================
+
+• The user WILL PROVIDE:
+  - Image of the model HOLDING THE 3 PRODUCTS → THIS IS THE MAIN HERO IMAGE
+  - Before & After images
+
+RULES:
+• Use the model holding the 3 products as the PRIMARY HERO IMAGE
+• Create a professional Before & After section
+• The system MUST select the BEST before & after images for presentation
+• Fix any overlap issues
+• Respect spacing, grid, z-index
+• Images must look real, clean and credible
+
+====================================
+PAGE STRUCTURE (MANDATORY)
+====================================
+
+1️⃣ STICKY HEADER
+• Logo: AmazoLE
+• Trust bar:
+  “🚚 Receba primeiro. Pague só quando chegar — ou antes, se preferir.”
+• CTA (scroll to products):
+  “COMPRAR COM SEGURANÇA”
+
+2️⃣ HERO SECTION (VERY AGGRESSIVE)
+Main image:
+• Model holding the 3 products (central, premium)
+
+Headline:
+“Clareamento real da pele e da região íntima — sem risco e sem medo”
+
+Subheadline:
+“Receba em casa. Pague só na entrega ou antes, se preferir. Você decide.”
+
+Bullets:
+✔ Não precisa comprar kit  
+✔ Com 1 produto já tem resultado  
+✔ Com os 3, o resultado é potencializado  
+✔ Pague somente na entrega  
+✔ Envio rápido para todo o Brasil  
+
+CTAs:
+• “QUERO RECEBER E PAGAR NA ENTREGA”
+• “COMPRAR COM TOTAL SEGURANÇA”
+
+3️⃣ COMO FUNCIONA (TRANSPARÊNCIA TOTAL)
+Steps:
+1. Escolha seu produto (1, 2 ou 3)
+2. Escolha como pagar
+3. Receba em casa
+4. Pague do jeito que escolheu
+
+Simple icons + linguagem direta.
+
+4️⃣ CONEXÃO EMOCIONAL (DOR REAL)
+Address:
+• Melasma
+• Axilas escuras
+• Virilha escurecida
+• Vergonha ao usar roupas curtas
+• Queda de autoestima
+
+Empatia + solução clara.
+
+5️⃣ MÉTODO AMAZOLE (SEM PRESSÃO)
+Explain clearly:
+• Sabonete Clareador
+• Esfoliante Clareador
+• Sérum Íntimo Clareador
+
+IMPORTANT COPY:
+👉 “Você não precisa usar os 3.”
+👉 “Apenas 1 já traz resultado.”
+👉 “O uso combinado acelera e potencializa.”
+
+====================================
+BEFORE & AFTER (PROVA SOCIAL)
+====================================
+
+• Use provided images
+• Choose the best ones
+• Organize professionally
+• Add captions
+• Disclaimer:
+“Resultados podem variar de pessoa para pessoa.”
+
+====================================
+PRODUCT SECTIONS (WITH PRICES & LINKS)
+====================================
+
+------------------------------------
+🧼 SABONETE EM PASTA CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+Preço ANTES: R$ 119,90  
+Preço PROMOCIONAL: R$ 84,40  
+Link:
+https://app.coinzz.com.br/checkout/sabone-tira-manchas-1-unidade-600  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+Preço ANTES: R$ 359,70  
+Preço PROMOCIONAL: R$ 184,40  
+Link:
+https://app.coinzz.com.br/checkout/sabonete-3-unidades-602  
+
+Opção 3 – 2 Unidades  
+Preço ANTES: R$ 239,80  
+Preço PROMOCIONAL: R$ 134,40  
+Link:
+https://app.coinzz.com.br/checkout/sabonete-2-unidades-601  
+
+------------------------------------
+🧴 ESFOLIANTE CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+Preço ANTES: R$ 169,70  
+Preço PROMOCIONAL: R$ 94,40  
+Link:
+https://app.coinzz.com.br/checkout/esfoliante-corporal-amazole-593  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+Preço ANTES: R$ 509,10  
+Preço PROMOCIONAL: R$ 197,40  
+Link:
+https://app.coinzz.com.br/checkout/amazole-pele-de-porcelana-597  
+
+Opção 3 – 2 Unidades  
+Preço ANTES: R$ 339,40  
+Preço PROMOCIONAL: R$ 154,30  
+Link:
+https://app.coinzz.com.br/checkout/amazole-garanta-60-dias-de-pele-nova-596  
+
+------------------------------------
+💧 SÉRUM ÍNTIMO CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+Preço ANTES: R$ 149,90  
+Preço PROMOCIONAL: R$ 94,40  
+Link:
+https://app.coinzz.com.br/checkout/amazole-serum-intimo-clareador-544  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+Preço ANTES: R$ 449,70  
+Preço PROMOCIONAL: R$ 194,40  
+Link:
+https://app.coinzz.com.br/checkout/serum-3-unidades-606  
+
+Opção 3 – 2 Unidades  
+Preço ANTES: R$ 299,80  
+Preço PROMOCIONAL: R$ 154,40  
+Link:
+https://app.coinzz.com.br/checkout/serum-2-unidades-605  
+
+====================================
+PAYMENT TRUST SECTION
+====================================
+
+Title:
+“Você decide como pagar”
+
+Copy:
+• Pague só quando receber = zero risco
+• Ou pague antes = comodidade
+• Você escolhe
+• Total transparência
+
+====================================
+FAQ (QUEBRA TOTAL DE OBJEÇÕES)
+====================================
+
+• Preciso comprar os 3 produtos?
+• Com apenas 1 funciona?
+• Posso pagar só quando receber?
+• Posso pagar antes?
+• Em quanto tempo chega?
+• É seguro?
+
+====================================
+FINAL CTA (EXTREMAMENTE AGRESSIVO)
+====================================
+
+Buttons:
+“SIM, QUERO RECEBER E PAGAR NA ENTREGA”
+“COMPRAR COM TOTAL SEGURANÇA”
+
+Scroll to product sections.
+
+====================================
+FINAL GOAL
+====================================
+
+• Site feito para vender todos os dias
+• Conversão agressiva
+• Confiança máxima
+• Zero confusão
+• Marca premium
+• Estrutura pronta para escalar milhões por mês

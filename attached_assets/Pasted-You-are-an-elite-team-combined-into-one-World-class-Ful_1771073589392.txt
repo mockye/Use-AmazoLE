@@ -1,0 +1,280 @@
+You are an elite team combined into one:
+
+• World-class Full Stack Developer
+• Senior UX/UI Designer for premium feminine cosmetic brands
+• Direct Response Copywriter specialized in COD (Pagamento na Entrega)
+• CRO Specialist focused on aggressive conversion
+• Brand Strategist for scalable ecommerce (7–8 figures/month)
+
+Your mission is to BUILD a COMPLETE, REAL, PROFESSIONAL and HIGH-CONVERTING SALES PAGE.
+
+This is NOT a demo.
+This page WILL be used commercially.
+Everything must be production-ready, optimized and lightweight.
+
+====================================
+GLOBAL RULES (MANDATORY)
+====================================
+
+• Prompt language: English
+• ALL website content: Brazilian Portuguese (PT-BR)
+• Brand name: AmazoLé
+• Target audience: Mulheres de 23 a 45 anos
+• Mobile-first design (priority)
+• Fast load, clean code, low Replit credit usage
+• NO unnecessary animations or heavy libraries
+• Focus on trust, pain, desire and aggressive conversion
+
+====================================
+CORE OFFER — PAYMENT FREEDOM (VERY IMPORTANT)
+====================================
+
+This is the MAIN DIFFERENTIAL and must be repeated strategically across the page.
+
+PRIMARY MESSAGE (STRONG & REPEATED):
+👉 “PAGUE SOMENTE NA ENTREGA”
+👉 “VOCÊ RECEBE PRIMEIRO E SÓ PAGA QUANDO O PRODUTO CHEGAR”
+
+SECONDARY (TRANSPARENCY & CONTROL):
+👉 “Se preferir, você também pode pagar antes pelo site”
+👉 “Pix ou Cartão de Crédito”
+
+IMPORTANT:
+• No WhatsApp buttons
+• No “quero orientação”
+• Doubts must redirect ONLY to FAQ section
+
+Accepted payment methods:
+• Pix
+• Cartão de crédito
+• Pagamento na entrega
+
+Delivery:
+• Postagem rápida (até 1 dia útil)
+• Envio para todo o Brasil
+
+The customer must feel:
+“Eu escolho como pagar.”
+“Não existe risco.”
+“Essa marca é séria.”
+“Estou no controle.”
+
+====================================
+DESIGN & BRANDING
+====================================
+
+• Feminine, premium, clean aesthetic
+• Main color: Rosinha lilás sofisticado (similar ao site atual)
+• White background
+• Subtle gradients (no heavy effects)
+• Clean modern typography
+• Elegant spacing
+• Professional ecommerce look
+
+REMOVE from header:
+• Any image logo like "Cabeçalho__5_-removebg-preview..."
+• Replace with TEXT LOGO ONLY:
+  AmazoLé
+  Subtitle: Método Corporal Premium
+
+====================================
+HEADER (STICKY)
+====================================
+
+• Logo (text only): AmazoLé
+• Trust bar with icons:
+  ✔ Postagem rápida (até 1 dia útil)
+  ✔ Pague na entrega ou antecipado
+  ✔ Pix & Cartão de crédito
+• Primary CTA button:
+  “VER OFERTAS AGORA”
+
+====================================
+HERO SECTION
+====================================
+
+LEFT:
+Headline (strong pain-based):
+“Manchas que incomodam todos os dias não precisam mais fazer parte da sua rotina”
+
+Subheadline:
+“Tratamento clareador corporal e íntimo com total liberdade de pagamento.
+Receba primeiro. Pague na entrega ou antes — você decide.”
+
+Bullets:
+✔ Pague somente na entrega  
+✔ Ou pague antes com Pix ou Cartão  
+✔ Compra segura e transparente  
+✔ Envio rápido para todo o Brasil  
+
+Primary CTA (very visible):
+“QUERO VER AS OFERTAS AGORA”
+→ Make this button visually stronger and more persuasive
+
+RIGHT:
+• Use MAIN IMAGE: modelo segurando os 3 produtos
+• Remove any old/generated media not approved
+• This image is the hero authority image
+
+====================================
+PAIN & EMOTIONAL SECTION
+====================================
+
+Focus aggressively on pain:
+• Melasma
+• Axilas escurecidas
+• Virilha escurecida
+• Vergonha, insegurança, autoestima
+
+Copy must be emotional, respectful and persuasive.
+Make the reader feel understood.
+
+====================================
+IMPORTANT CLARIFICATION (SUBTLE — NOT REPEATED TOO MUCH)
+====================================
+
+Mention ONLY ONCE in the page:
+
+“Você não é obrigada a comprar os 3 produtos.
+Com apenas 1 produto, já é possível notar resultados visíveis.
+O uso combinado potencializa e acelera os resultados.”
+
+Do NOT repeat this everywhere.
+
+====================================
+PRODUCT SECTIONS (VERY IMPORTANT)
+====================================
+
+GENERAL RULES:
+• Each product has its own section
+• Each section has 3 cards: 1 unidade, 3 unidades, 2 unidades
+• 3 UNIDADES MUST ALWAYS be the SECOND CARD and highlighted as:
+  “⭐ MELHOR OPÇÃO”
+• On mobile: cards must appear SIDE BY SIDE correctly (no overlap, no cut text)
+• Fix spacing so prices and text are always readable
+• Use images I will upload for:
+  - 1 unidade
+  - 2 unidades
+  - 3 unidades
+
+------------------------------------
+🧼 SABONETE EM PASTA CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+De: R$ 119,90  
+Por: R$ 84,40  
+Link:
+https://app.coinzz.com.br/checkout/sabone-tira-manchas-1-unidade-600  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+De: R$ 359,70  
+Por: R$ 184,40  
+Link:
+https://app.coinzz.com.br/checkout/sabonete-3-unidades-602  
+
+Opção 3 – 2 Unidades  
+De: R$ 239,80  
+Por: R$ 134,40  
+Link:
+https://app.coinzz.com.br/checkout/sabonete-2-unidades-601  
+
+------------------------------------
+🧴 ESFOLIANTE CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+De: R$ 169,70  
+Por: R$ 94,40  
+Link:
+https://app.coinzz.com.br/checkout/esfoliante-corporal-amazole-593  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+De: R$ 509,10  
+Por: R$ 197,40  
+Link:
+https://app.coinzz.com.br/checkout/amazole-pele-de-porcelana-597  
+
+Opção 3 – 2 Unidades  
+De: R$ 339,40  
+Por: R$ 154,30  
+Link:
+https://app.coinzz.com.br/checkout/amazole-garanta-60-dias-de-pele-nova-596  
+
+------------------------------------
+💧 SÉRUM ÍNTIMO CLAREADOR
+------------------------------------
+
+Opção 1 – 1 Unidade  
+De: R$ 149,90  
+Por: R$ 94,40  
+Link:
+https://app.coinzz.com.br/checkout/amazole-serum-intimo-clareador-544  
+
+Opção 2 ⭐ MELHOR OPÇÃO – 3 Unidades  
+De: R$ 449,70  
+Por: R$ 194,40  
+Link:
+https://app.coinzz.com.br/checkout/serum-3-unidades-606  
+
+Opção 3 – 2 Unidades  
+De: R$ 299,80  
+Por: R$ 154,40  
+Link:
+https://app.coinzz.com.br/checkout/serum-2-unidades-605  
+
+====================================
+PAYMENT TRUST SECTION
+====================================
+
+Title:
+“Você escolhe como pagar. O controle é seu.”
+
+Explain clearly:
+• Pagar na entrega = zero risco
+• Pagar antes = mais praticidade
+• Pix ou Cartão
+• Transparência total
+
+Repeat strongly:
+“Receba primeiro. Pague depois.”
+
+====================================
+BEFORE & AFTER
+====================================
+
+• Use the BEST before & after images I will provide
+• Organize cleanly
+• Add disclaimer:
+“Resultados podem variar de pessoa para pessoa.”
+
+====================================
+FAQ (OBJECTION KILLER)
+====================================
+
+Questions:
+• Posso pagar somente quando receber?
+• Posso pagar antes?
+• É seguro?
+• Em quanto tempo chega?
+• Funciona para mim?
+
+Make answers clear, confident and persuasive.
+
+====================================
+FINAL CTA (AGGRESSIVE)
+====================================
+
+Buttons:
+“SIM, QUERO RECEBER E ESCOLHER COMO PAGAR”
+“VER OFERTAS AGORA”
+
+====================================
+FINAL GOAL
+====================================
+
+• Extreme trust
+• Aggressive but honest persuasion
+• High daily conversion
+• Optimized for scale
+• Built to sell millions monthly

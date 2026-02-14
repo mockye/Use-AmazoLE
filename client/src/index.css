@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* LIGHT MODE */
+:root {
+  --button-outline: rgba(0,0,0, .10);
+  --badge-outline: rgba(0,0,0, .05);
+
+  /* Automatic computation of border around primary / danger buttons */
+  --opaque-button-border-intensity: -8; /* In terms of percentages */
+
+  /* Backgrounds applied on top of other backgrounds when hovered/active */
+  --elevate-1: rgba(0,0,0, .03);
+  --elevate-2: rgba(0,0,0, .08);
+
+  --background: 0 0% 100%; /* Pure White as requested */
+
+  --foreground: 280 15% 15%; /* Darker sophisticated lilac/black */
+
+  --border: 280 20% 92%; /* Soft lilac border */
+
+  --card: 0 0% 100%;
+
+  --card-foreground: 280 15% 15%;
+
+  --card-border: 280 20% 95%;
+
+  --sidebar: 280 10% 98%;
+
+  --sidebar-foreground: 280 15% 20%;
+
+  --sidebar-border: 280 15% 94%;
+
+  --sidebar-primary: 285 45% 65%; /* Sophisticated Lilac Pink */
+
+  --sidebar-primary-foreground: 0 0% 100%;
+
+  --sidebar-accent: 285 45% 96%;
+
+  --sidebar-accent-foreground: 285 45% 35%;
+
+  --sidebar-ring: 285 45% 65%;
+
+  --popover: 0 0% 100%;
+
+  --popover-foreground: 280 15% 15%;
+
+  --popover-border: 280 20% 92%;
+
+  --primary: 285 45% 65%; /* Sophisticated Lilac Pink */
+
+  --primary-foreground: 0 0% 100%;
+
+  --secondary: 285 30% 96%; /* Very light lilac */
+
+  --secondary-foreground: 285 45% 30%;
+
+  --muted: 280 10% 97%;
+
+  --muted-foreground: 280 10% 45%;
+
+  --accent: 285 45% 55%; /* Stronger lilac for accents */
+
+  --accent-foreground: 0 0% 100%;
+
+  --destructive: 0 84.2% 60.2%;
+
+  --destructive-foreground: 0 0% 98%;
+
+  --input: 280 15% 92%;
+  --ring: 285 45% 65%;
+  --chart-1: 285 45% 65%;
+  --chart-2: 285 30% 96%;
+  --chart-3: 285 45% 55%;
+  --chart-4: 43 74% 66%;
+  --chart-5: 27 87% 67%;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: Georgia, serif;
+  --radius: 0.375rem; /* Slightly smaller for premium look */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.dark {
+  --background: 280 20% 5%;
+  --foreground: 280 10% 98%;
+  --primary: 285 45% 65%;
+  --card: 280 20% 8%;
+  --border: 280 20% 15%;
+}
+
+@layer base {
+  * { @apply border-border; }
+  body { @apply font-sans antialiased bg-background text-foreground; }
+}
