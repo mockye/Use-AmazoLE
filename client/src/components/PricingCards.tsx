@@ -142,7 +142,7 @@ export function PricingCards() {
                 data-testid={`pricing-card-${o.id}`}
               >
                 {o.badge && (
-                  <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-primary text-white text-[10px] font-bold px-4 py-1.5 rounded-full uppercase tracking-widest shadow-lg flex items-center gap-1">
+                  <div className="absolute -top-1 left-1/2 -translate-x-1/2 bg-primary text-white text-[10px] font-bold px-4 py-1.5 rounded-full uppercase tracking-widest shadow-lg flex items-center gap-1">
                     {o.badge}
                   </div>
                 )}
